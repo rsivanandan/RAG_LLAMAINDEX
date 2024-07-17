@@ -1,3 +1,5 @@
+RAG ChatBot with Local Ollama instance with 'llama3' model.
+
 Ensure to have Ollama installed locally. 
 
 
